@@ -20,6 +20,7 @@ public class Role implements Serializable {
         return users;
     }
 
+
     public void setUsers(List<User> users) {
         this.users = users;
     }
